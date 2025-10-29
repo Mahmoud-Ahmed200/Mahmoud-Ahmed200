@@ -1,4 +1,4 @@
-<h1 align="center">Mahmoud Ahmed</h1>
+<h1 align="center">👋 Hey, I'm Mahmoud Ahmed</h1>
 
 <p align="center">
   Full-Stack Developer | Computer Science Student | Focused on Scalable, Maintainable, and Modern Web Applications

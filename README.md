@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats (Always Working)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud-Ahmed200&theme=tokyonight" height="200" alt="profile-details"/>
